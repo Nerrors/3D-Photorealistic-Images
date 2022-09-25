@@ -1,4 +1,4 @@
 # Spotypal Product
-![[/res/pen_3.png]]
+![[https://github.com/Nerrors/3D-Photorealistic-Images/blob/master/res/pen_3.png]]
 # Short Movie
-![[/res/Render 5.png]]
+![[https://github.com/Nerrors/3D-Photorealistic-Images/blob/master/res/Render%205.png]]
